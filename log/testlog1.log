@@ -79,3 +79,6 @@
 2021-06-14 12:56:50,067 [main] INFO ebanking - Entered username
 2021-06-14 12:56:50,518 [main] INFO ebanking - Entered password
 2021-06-14 12:56:55,057 [main] INFO ebanking - Login test passes
+2021-06-14 13:14:45,360 [main] INFO ebanking - Entered username
+2021-06-14 13:14:45,957 [main] INFO ebanking - Entered password
+2021-06-14 13:14:48,333 [main] INFO ebanking - Login test passes

@@ -69,7 +69,7 @@ public class Base_Class {
 				System.setProperty("webdriver.edge.driver", "./Drivers//msedgedriver.exe");
 				driver=new EdgeDriver();
 		}
-		
+		Thread.sleep(9000);
 		//driver.manage().timeouts().implicitlyWait(10, TimeUnit.SECONDS);
 		driver.get(baseURL);			
 		driver.manage().window().maximize();		
